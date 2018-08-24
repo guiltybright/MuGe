@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7603ce4a-75d6-4e3e-bb08-4c5cea38f4ab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/src/main/java/com/muge/springboot/config/HelloServiceAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/src/main/java/com/muge/springboot/config/HelloServiceProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/src/main/java/com/muge/springboot/service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/target/classes/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/target/classes/com/muge/springboot/config/HelloServiceAutoConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/target/classes/com/muge/springboot/config/HelloServiceProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-hello/target/classes/com/muge/springboot/service/HelloService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/muge/web/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/muge/web/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/target/classes/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/target/classes/com/muge/web/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/target/classes/com/muge/web/controller/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/target/classes/templates/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/templates/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/templates/test.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,19 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/muge/web/controller/IndexController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/src/main/java/com/muge/web/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
@@ -68,6 +29,15 @@
                 <element signature="e#229#230#0" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -173,6 +143,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/web/pom.xml" />
         <option value="$PROJECT_DIR$/web/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/test.html" />
       </list>
     </option>
   </component>
@@ -193,7 +164,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
@@ -390,6 +361,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mydemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mydemo" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -490,15 +470,15 @@
       <option name="presentableId" value="Default" />
       <updated>1535010895901</updated>
       <workItem from="1535010898664" duration="5134000" />
-      <workItem from="1535071909920" duration="680000" />
+      <workItem from="1535071909920" duration="1155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5814000" />
+    <option name="totallyTimeSpent" value="6289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -631,9 +611,6 @@
     <entry file="file://$PROJECT_DIR$/web/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/test.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationSorter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -719,6 +696,13 @@
             <element signature="e#229#230#0" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
