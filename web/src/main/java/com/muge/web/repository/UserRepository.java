@@ -1,4 +1,9 @@
 package com.muge.web.repository;
 
-public interface UserRepository {
+import com.muge.web.entity.User;
+import org.springframework.data.repository.PagingAndSortingRepository;
+
+public interface UserRepository extends PagingAndSortingRepository<User, String> {
+
+    int countUserByUserName(String userName);
 }

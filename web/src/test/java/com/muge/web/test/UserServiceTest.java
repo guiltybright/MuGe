@@ -19,9 +19,10 @@ public class UserServiceTest {
     @Test
     public void save() {
         User user = new User();
-        user.setUsername("muge");
+        user.setUserName("rbgdrgrdg");
         user.setPassword("123456");
-
+        user.setAge(24);
+        user.setAddress("成都");
         this.userService.save(user);
     }
 }

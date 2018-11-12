@@ -4,3 +4,22 @@ server:
 muge:
   hello:
     message: 你个笨蛋
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://116.62.191.75:3306/mugeweb?useSSL=false&autoReconnect=true&useUnicode=true&createDatabaseIfNotExist=true&characterEncoding=utf8&serverTimezone=UTC
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.zaxxer.hikari.HikariDataSource
+    username: muge
+    password: muge180722
+
+  jpa:
+    generate-ddl: true
+    show-sql: true
+logging:
+  level:
+    root: info
+    org.springframework.web: info
+
+
