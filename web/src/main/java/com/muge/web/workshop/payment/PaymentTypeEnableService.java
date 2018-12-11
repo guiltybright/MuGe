@@ -17,7 +17,7 @@ import java.util.concurrent.*;
  */
 @Service
 public class PaymentTypeEnableService {
-    private static final Logger logger = LoggerFactory.getLogger(PaymentTypeEnableHandler.class);
+    private static final Logger logger = LoggerFactory.getLogger(PaymentTypeEnableService.class);
     /**
      * 默认认为超时时间（可动态配置） 2S
      */

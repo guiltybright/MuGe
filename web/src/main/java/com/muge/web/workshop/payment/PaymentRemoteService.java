@@ -6,5 +6,6 @@ package com.muge.web.workshop.payment;
  */
 public class PaymentRemoteService {
     public ConsultResult isEnabled(String paymentType) {
+        return null;
     }
 }
